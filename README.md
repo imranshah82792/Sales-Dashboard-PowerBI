@@ -1,6 +1,4 @@
-# Sales-Dashboard-PowerBI
-
-📊 Project Description
+# Sales-Dashboard-Power BI
 
 This Power BI dashboard provides an interactive visualization of sales performance across different cities, mobile models, and payment methods. The report includes key metrics such as:
 
